@@ -1,0 +1,8 @@
+h2.login{
+	text-align: center;
+}
+.error-msg{
+	color:red;
+	padding-left: 30px;
+	font-size: 1.2em;
+}
